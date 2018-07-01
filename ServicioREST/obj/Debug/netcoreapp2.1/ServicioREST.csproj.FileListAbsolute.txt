@@ -12,3 +12,17 @@ C:\Users\ALIEN\Desktop\servicio Rest\ServicioREST\obj\Debug\netcoreapp2.1\Servic
 C:\Users\ALIEN\Desktop\servicio Rest\ServicioREST\obj\Debug\netcoreapp2.1\ServicioREST.RazorTargetAssemblyInfo.cache
 C:\Users\ALIEN\Desktop\servicio Rest\ServicioREST\obj\Debug\netcoreapp2.1\ServicioREST.dll
 C:\Users\ALIEN\Desktop\servicio Rest\ServicioREST\obj\Debug\netcoreapp2.1\ServicioREST.pdb
+C:\Users\X\Desktop\webservices\ServiceREST\ServicioREST\obj\Debug\netcoreapp2.1\ServicioREST.csprojAssemblyReference.cache
+C:\Users\X\Desktop\webservices\ServiceREST\ServicioREST\obj\Debug\netcoreapp2.1\ServicioREST.csproj.CoreCompileInputs.cache
+C:\Users\X\Desktop\webservices\ServiceREST\ServicioREST\obj\Debug\netcoreapp2.1\ServicioREST.RazorAssemblyInfo.cache
+C:\Users\X\Desktop\webservices\ServiceREST\ServicioREST\obj\Debug\netcoreapp2.1\ServicioREST.RazorAssemblyInfo.cs
+C:\Users\X\Desktop\webservices\ServiceREST\ServicioREST\obj\Debug\netcoreapp2.1\ServicioREST.AssemblyInfoInputs.cache
+C:\Users\X\Desktop\webservices\ServiceREST\ServicioREST\obj\Debug\netcoreapp2.1\ServicioREST.AssemblyInfo.cs
+C:\Users\X\Desktop\webservices\ServiceREST\ServicioREST\obj\Debug\netcoreapp2.1\ServicioREST.dll
+C:\Users\X\Desktop\webservices\ServiceREST\ServicioREST\obj\Debug\netcoreapp2.1\ServicioREST.pdb
+C:\Users\X\Desktop\webservices\ServiceREST\ServicioREST\bin\Debug\netcoreapp2.1\ServicioREST.deps.json
+C:\Users\X\Desktop\webservices\ServiceREST\ServicioREST\bin\Debug\netcoreapp2.1\ServicioREST.runtimeconfig.json
+C:\Users\X\Desktop\webservices\ServiceREST\ServicioREST\bin\Debug\netcoreapp2.1\ServicioREST.runtimeconfig.dev.json
+C:\Users\X\Desktop\webservices\ServiceREST\ServicioREST\bin\Debug\netcoreapp2.1\ServicioREST.dll
+C:\Users\X\Desktop\webservices\ServiceREST\ServicioREST\bin\Debug\netcoreapp2.1\ServicioREST.pdb
+C:\Users\X\Desktop\webservices\ServiceREST\ServicioREST\obj\Debug\netcoreapp2.1\ServicioREST.RazorTargetAssemblyInfo.cache
