@@ -6,7 +6,7 @@ namespace ServicioREST.Models
 {
     public class DataAccessEmisor
     {
-        string sConnection = "server=localhost;user id=root;password=;persistsecurityinfo=True;port=3306;database=test_candidate;SslMode=none";
+        string sConnection = "server=pos-dorm4966.cloudapp.net;user id=tester;password=can;persistsecurityinfo=True;port=3306;database=test_candidate;SslMode=none";
 
         public String GetEmisor(Emisor emisor)
         {
